@@ -1,0 +1,8 @@
+{
+  "overlays": [],
+  "settings": {
+    "rtspUrl": "rtsp://localhost:8554/mystream",
+    "volume": "1",
+    "autoplay": false
+  }
+}

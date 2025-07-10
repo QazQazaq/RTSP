@@ -223,7 +223,7 @@ Update settings
 ### 1. Setting up RTSP Stream
 
 1. Navigate to the Settings page
-2. Enter your RTSP URL in the "RTSP Stream URL" field (e.g., `rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mp4`)
+2. Enter your RTSP URL in the "RTSP Stream URL" field 
 3. Configure other playback settings as needed
 4. Click "Save Settings"
 
@@ -311,10 +311,7 @@ To replace the JSON file storage with MongoDB:
 
 ## Testing RTSP Streams
 
-For testing purposes, you can use these public RTSP streams:
-
-- `rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mp4`
-- `rtsp://184.72.239.149/vod/mp4:BigBuckBunny_115k.mp4`
+For testing purposes, you can use public RTSP streams
 
 **Requirements**: 
 - FFmpeg must be installed to test RTSP streams
